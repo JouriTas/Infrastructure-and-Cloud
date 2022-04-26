@@ -1,0 +1,2 @@
+thislist = ["apple"]
+print(thislist)
